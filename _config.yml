@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lucho Tapia"
+  name             : "la vorágine"
   avatar           : "/assets/images/logo_nuevo_final.png"
-  bio              : "friki"
+  bio              : "Una cooperativa editorial por la edición libre y accesible""
   location         : "Barceloneta"
   email            :
   uri              :
@@ -233,7 +233,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  _posts
   - scope:
       path: "/blog/"
       type: posts
