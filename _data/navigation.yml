@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Blog"
-    url: blog.html
+    url: /blog.html
     
   # - title: "Sample Posts"
   #   url: /year-archive/
