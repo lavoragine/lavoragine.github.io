@@ -3,7 +3,7 @@ main:
    - title: "About"
      url: /about/
    - title: "Blog" 
-     url: /blog/
+     url: /blog.html
     
   # - title: "Sample Posts"
   #   url: /year-archive/
