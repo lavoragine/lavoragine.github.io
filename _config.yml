@@ -235,7 +235,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/blog/"
       type: posts
     values:
       layout: single
@@ -246,3 +246,8 @@ defaults:
       related: true
       
 include: "_pages"
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
