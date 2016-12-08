@@ -1,9 +1,9 @@
 # main links
 main:
    - title: "About"
-    url: /about/
-   - title: "About"
-    url: /blog/
+     url: /about/
+   - title: "Blog" 
+     url: /blog/
     
   # - title: "Sample Posts"
   #   url: /year-archive/
