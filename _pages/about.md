@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: single
 title: Sobre la Vorágine
 permalink: /about/
+defaults:
 ---
 
 #Sobre la Vorágine
