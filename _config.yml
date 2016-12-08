@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "La vorágine"
-  avatar           : " /assets/images/logo_nuevo_final.png"
-  bio              : "Una cooperativa editorial por la edición libre y accesible""
+  avatar           : "/assets/images/logo_nuevo_final.png"
+  bio              : "Una cooperativa editorial por la edición libre y accesible"
   location         : "Barceloneta"
   email            :
   uri              :
