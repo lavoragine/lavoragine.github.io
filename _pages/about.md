@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: Sobre la Vorágine
 permalink: /about/
 defaults:
