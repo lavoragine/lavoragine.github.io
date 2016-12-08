@@ -12,10 +12,10 @@ title_separator          : "-"
 name                     : "La Vorágine"
 description              : "Por una edición libre & accesible"
 url                      :   "https://lavoragine.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  :  "/"
 repository               : "lavoragine/lavoragine.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : true
+teaser                   : "/assets/images/Eli-Lotar-photomontage-for-Le-Theatre-Alfred-Jarry-et-l-hostilite-publique-(1930)-2_900.jpg"
+breadcrumbs            : # true
 words_per_minute         : 200
 comments:
   provider               : # "disqus" "facebook", 
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Lucho Tapia"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo_nuevo_final.png"
   bio              : "friki"
   location         : "Barceloneta"
   email            :
